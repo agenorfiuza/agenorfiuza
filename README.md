@@ -8,14 +8,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](afiuzane@gmail.com)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afiuzane)
 
-
 <div style="display: inline;">
   <img src="https://github-readme-stats.vercel.app/api?username=agenorfiuza&show_icons=true&theme=tokyonight" />
+  </br>
   <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&theme=tokyonight" />
 </div>
 
 ## Languages and Tools:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="fiuza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="fiuza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
