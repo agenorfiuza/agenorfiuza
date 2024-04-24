@@ -1,33 +1,20 @@
 ## Olá! Eu sou o Agenor Fiuza 🖐🏽
 
-##
-
 [![Agenor Fiuza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agenorfiuza\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/agenorfiuza/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza\&layout=compact)
-
-##
 
 ## Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fiuza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="fiuza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="fiuza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--
-  <img align="center" alt="fiuza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<
-  <img align="center" alt="fiuza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <>
-  <img align="center" alt="fiuza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <>
-  <img align="center" alt="fiuza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="fiuza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
   
 ##
 
-## Connect with me:
+### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agenor-correia-fiuza-neto-25a07559)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cagenor33)
