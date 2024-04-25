@@ -19,18 +19,18 @@
 
 <h3 align="left">Estatísticas do GitHub</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agenorfiuza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&&bg_color=800F2F&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFF6&theme=jolly)
-<img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&bg_color=800F2F&title_color=FFF6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6theme=jolly" />
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agenorfiuza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&&bg_color=800F2F&title_color=FF00F6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FFF6&theme=jolly)
+<img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&bg_color=800F2F&title_color=FFF6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FF00F6theme=jolly" />
 
 
 <h3 align="left">Habilidades:</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="fiuza-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="fiuza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="fiuza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" title="Git" alt="Favicon do Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
-<img align="center" title="GitHub" alt="Favicon do Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
+<div style="display: inline_block;background-color:gray; border-radius:1em"><br>
+  <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
+<img align="center" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
 </div>
 
 ## 
@@ -58,16 +58,16 @@ Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems An
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agenorfiuza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&&bg_color=800F2F&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFF6&theme=jolly)
-<img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&bg_color=800F2F&title_color=FFF6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6theme=jolly" />
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agenorfiuza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&&bg_color=800F2F&title_color=FF00F6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FFF6&theme=jolly)
+<img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&bg_color=800F2F&title_color=FFF6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FF00F6theme=jolly" />
 
 
 <h3 align="left">Hard Skills:</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="fiuza-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="fiuza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="fiuza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" title="Git" alt="Favicon do Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
-<img align="center" title="GitHub" alt="Favicon do Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
+<div style="display: inline_block;background-color:gray; border-radius:1em"><br>
+  <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
+<img align="center" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
 </div>
