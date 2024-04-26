@@ -5,9 +5,9 @@
     <span>Agenor Fiuza</span>
 </h1>
 
-<p align="justify">Desenvolvedor Front-end de Camaçari-BA, Brasil, Superior Tecnólogo em Análise e Desenvolvimento de Sistemas. Meu primeiro projeto web foi no Curso de Qualificação Profissional em Web Design do Senai quando tive um contato mais "sério" com HTML, CSS e um pouco de JavaScript, Git/GitHub, Node.js e VSCode. 
+<p align="justify">Desenvolvedor Front-end de Camaçari-BA, Brasil, Superior Tecnólogo em Análise e Desenvolvimento de Sistemas. Meu primeiro projeto web foi no Curso de Qualificação Profissional em Web Design do Senai quando tive um contato mais "sério" com HTML, CSS, Git/GitHub e um pouco de JavaScript, Python, Node.js e VSCode. 
 <br>
- Apaixonado por tecnologia e solução de problemas, alguns dos meus hobbies são assistir jogos de futebol, filmes e ler.</p>
+ Apaixonado por minha família e a tecnologia, alguns dos meus hobbies são assistir jogos de futebol, filmes e viajar.</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -45,9 +45,9 @@
 </h1>
 
 <p align="justify">
-Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems Analysis and Development. My first web project was on Senai's Professional Qualification Course in Web Design when I had more "serious" contact with HTML, CSS and a little JavaScript, Git/GitHub, Node.js and VSCode.
+Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems Analysis and Development. My first web project was on Senai's Professional Qualification Course in Web Design when I had more "serious" contact with HTML, CSS, Git/GitHub and a little JavaScript, Python, Node.js and VSCode.
 <br>
- Passionate about technology and problem solving, some of my hobbies are watching football games, movies and reading.</p>
+ Passionate about my family and technology, some of my hobbies are watching football games, movies and traveling.</p>
 
 <h3 align="left">Connect with me:</h3>
 
