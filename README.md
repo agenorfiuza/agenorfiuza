@@ -25,13 +25,14 @@
 
 <h3 align="left">Habilidades:</h3>
 
-<div style="display: inline_block;background-color:gray; border-radius:1em"><br>
-  <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
-<img align="center" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
-</div>
+![Git](https://img.shields.io/badge/GIT-800F2F?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-800F2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+![Vscode](https://img.shields.io/badge/Vscode-800F2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-800F2F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-800F2F?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-800F2F?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-800F2F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-800F2F?style=for-the-badge&logo=python&logoColor=white)
 
 ## 
 
@@ -64,10 +65,11 @@ Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems An
 
 <h3 align="left">Hard Skills:</h3>
 
-<div style="display: inline_block;background-color:gray; border-radius:1em"><br>
-  <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
-<img align="center" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40">  
-</div>
+![Git](https://img.shields.io/badge/GIT-800F2F?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-800F2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+![Vscode](https://img.shields.io/badge/Vscode-800F2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-800F2F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-800F2F?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-800F2F?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-800F2F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-800F2F?style=for-the-badge&logo=python&logoColor=white)
