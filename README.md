@@ -1,9 +1,5 @@
 <!-- pt-br -->
-<h1>
-    <a href="https://cagenor33.github.io/projetoSenai/index.html">
-     <img align="center" alt="Logo Abacaxi Veludo" width="36px" src="https://cagenor33.github.io/projetoSenai/img/logo/logoSite.png"></a>
-    <span>Agenor Fiuza</span>
-</h1>
+<h1> Agenor Fiuza </h1>
 
 <p align="justify">Desenvolvedor Front-end de Camaçari-BA, Brasil, Superior Tecnólogo em Análise e Desenvolvimento de Sistemas. Meu primeiro projeto web foi no Curso de Qualificação Profissional em Web Design do Senai quando tive um contato mais "sério" com HTML, CSS, Git/GitHub e um pouco de JavaScript, Python, Node.js e VSCode. 
 <br>
@@ -38,11 +34,7 @@
 
 <!-- en -->
 
-<h1>
-    <a href="https://cagenor33.github.io/projetoSenai/index.html">
-     <img align="center" alt="Logo Abacaxi Veludo" width="36px" src="https://cagenor33.github.io/projetoSenai/img/logo/logoSite.png"></a>
-    <span>Agenor Fiuza</span>
-</h1>
+<h1> Agenor Fiuza </h1>
 
 <p align="justify">
 Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems Analysis and Development. My first web project was on Senai's Professional Qualification Course in Web Design when I had more "serious" contact with HTML, CSS, Git/GitHub and a little JavaScript, Python, Node.js and VSCode.
