@@ -60,8 +60,7 @@ Front-end developer from Camaçari-BA, Brazil, Senior Technologist in Systems An
 <h3 align="left">GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agenorfiuza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&&bg_color=800F2F&title_color=FF00F6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FFF6&theme=jolly)
-<img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorfiuza&langs_count=10&layout=compact&bg_color=800F2F&title_color=FFF6&text_color=FFF&border_radius=9&border_color=36123c&icon_color=FF00F6theme=jolly" />
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agenorfiuza&layout=compact&bg_color=800F2F&border_color=36123c&title_color=FFF6&text_color=FFF)
 
 <h3 align="left">Hard Skills:</h3>
 
